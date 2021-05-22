@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         println("Hello from friend!")
 
+        println("OMG Learning how to work with Git  is so fun")
+
     }
 }
