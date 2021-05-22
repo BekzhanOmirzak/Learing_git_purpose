@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
        println("I want to push this commit")
 
+        println("Hello from friend!")
 
     }
 }
